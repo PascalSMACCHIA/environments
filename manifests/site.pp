@@ -1,4 +1,4 @@
 node 'default' {
-	include testrepo
+	include role::lamp 
 
 }
