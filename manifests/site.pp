@@ -1,4 +1,4 @@
-node 'agent' {
+node 'default' {
 	include testrepo
 
 }
